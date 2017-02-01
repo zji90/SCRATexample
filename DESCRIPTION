@@ -1,0 +1,12 @@
+Package: SCRATexample
+Type: Package
+Title: Example Data Package for SCRAT: Single-Cell Regulome Analysis Tool
+Version: 1.0.0
+Date: 2017-1-31
+Author: Zhicheng Ji, Weiqiang Zhou, Hongkai Ji
+Maintainer: Zhicheng Ji <zji4@jhu.edu>
+Description: Example Data package for SCRAT
+License: GPL(>=2)
+Depends:
+    R(>= 2.10.0)
+
